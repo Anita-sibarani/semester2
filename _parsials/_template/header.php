@@ -51,7 +51,7 @@
         </ul>
 
         <!-- Login Button -->
-        <a href="#" class="btn btn-warning fw-bolder" style="border-radius: 20px;">Login Now Buddy <i class="bi bi-arrow-right "></i></a>
+        <a href="?page=login" class="btn btn-warning fw-bolder" style="border-radius: 20px;">Login Now Buddy <i class="bi bi-arrow-right "></i></a>
       </div>
     </div>
   </nav>
